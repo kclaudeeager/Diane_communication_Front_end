@@ -1,13 +1,13 @@
-import logo from "./logo.svg";
 import "./App.css";
 import React from "react";
 import CommentSection from "./comment.js";
+
 
 function App() {
   return (
     <div className="App font-sans flex flex-col min-h-screen">
       <nav className="flex items-center justify-between flex-wrap bg-red-800 p-6">
-        {/* Navigation content */}
+      <img src="/cmu_logo.jpeg" alt="CMU Logo" className="h-12 opacity-80" />
       </nav>
       <h1 className="text-4xl md:text-6xl text-center text-blue-500 p-4 font-bold">
         Your Ideas Matter
