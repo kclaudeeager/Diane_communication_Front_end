@@ -10,7 +10,7 @@ root.render(
   <React.StrictMode>
     <Helmet>
       <meta charSet="utf-8" />
-      <title>CMU Student Government</title>
+      <title>CMU Communications</title>
       <link rel="canonical" href="" />
       <link rel="shortcut icon" href="/cmu_logo.jpeg" type="image/jpeg" />
     </Helmet>
